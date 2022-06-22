@@ -1,0 +1,14 @@
+---
+enable: true
+title: "Colabora con nosotros"
+subtitle: >
+          
+buttonTarget: "contact"
+itemPrices:
+  - packcage: "Colaboración"
+    description: >
+                
+    price: 
+    badge: 
+  
+---

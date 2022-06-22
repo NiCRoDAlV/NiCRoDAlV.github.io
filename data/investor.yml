@@ -1,0 +1,11 @@
+---
+enable: true
+title: "Nuestros inversores ángeles"
+subtitle: >
+          Cada uno de ellos ve en el futuro una nueva forma de alimentarnos
+investor:
+  - name: "Lionel Andrés Messi"
+    post: "investor"
+    image: "images/team/Inversor.PNG"
+  
+---
