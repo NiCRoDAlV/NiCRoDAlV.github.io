@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuestro Blog on Holus</title>
+    <link>https://holus.com.ar/blog/</link>
+    <description>Recent content in Nuestro Blog on Holus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>español</language>
+    <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate>
+    
+	<atom:link href="https://holus.com.ar/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Porqué producir alimentos en las ciudades?</title>
+      <link>https://holus.com.ar/blog/foodlogistic/</link>
+      <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
+      
+      <guid>https://holus.com.ar/blog/foodlogistic/</guid>
+      <description>Uno de los costos principales en la producción de alimentos es la logística. La cadena productiva depende de ella y hay formas innovadoras de reducir su impacto.
+Etapas de la logística Transporte Conservación Distribución </description>
+    </item>
+    
+    <item>
+      <title>Los inicios de la hidroponía</title>
+      <link>https://holus.com.ar/blog/hydrophonicsbegining/</link>
+      <pubDate>Thu, 06 Jan 2022 11:18:32 +0600</pubDate>
+      
+      <guid>https://holus.com.ar/blog/hydrophonicsbegining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>¿Qué es el éxodo rural?</title>
+      <link>https://holus.com.ar/blog/rural-exodus/</link>
+      <pubDate>Thu, 06 Jan 2022 11:16:38 +0600</pubDate>
+      
+      <guid>https://holus.com.ar/blog/rural-exodus/</guid>
+      <description>asdgfasdfgsag</description>
+    </item>
+    
+  </channel>
+</rss>
