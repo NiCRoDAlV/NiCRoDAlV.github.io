@@ -7,30 +7,26 @@ title = 'Holus'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Galeráa"
+  name = "Galería"
   url= "#gallery"
   weight = 1
   
   [[menu.Main]]
   name = "Acerca de nosotros"
   url= "/about/"
-  weight = 3
-  [[menu.Main]]
-  name = "Blog"
-  url= "#blog"
-  weight = 4
-  [[menu.Main]]
-  name = "Pricing"
-  url= "#pricing"
-  weight = 5
+  weight = 2
+  
+  
   [[menu.Main]]
   name = "FAQ"
   url= "#faq"
-  weight = 6
+  weight = 3
   [[menu.Main]]
   name = "Contact"
   url= "/contact/"
-  weight = 7
+  weight = 4
+
+  
 
   # Sitemap Menu
   [[menu.sitemap]]
