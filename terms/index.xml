@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Términos y condiciones on Holus</title>
-    <link>https://nicrodalv.github.io/terms/</link>
+    <link>https://www.holus.com.ar/terms/</link>
     <description>Recent content in Términos y condiciones on Holus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>español</language>
     <lastBuildDate>Sat, 08 Jan 2022 12:52:02 +0600</lastBuildDate>
     
-	<atom:link href="https://nicrodalv.github.io/terms/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.holus.com.ar/terms/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
