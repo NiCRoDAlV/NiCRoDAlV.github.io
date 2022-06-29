@@ -1,4 +1,4 @@
-baseURL = 'https://www.holus.com.ar'
+baseURL = 'https://nicrodalv.github.io'
 languageCode = 'español'
 paginate = 6
 theme= "coHub"

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nuestro Blog on Holus</title>
-    <link>https://www.holus.com.ar/blog/</link>
+    <link>https://nicrodalv.github.io/blog/</link>
     <description>Recent content in Nuestro Blog on Holus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>español</language>
     <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate>
     
-	<atom:link href="https://www.holus.com.ar/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicrodalv.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>¿Porqué producir alimentos en las ciudades?</title>
-      <link>https://www.holus.com.ar/blog/foodlogistic/</link>
+      <link>https://nicrodalv.github.io/blog/foodlogistic/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
       
-      <guid>https://www.holus.com.ar/blog/foodlogistic/</guid>
+      <guid>https://nicrodalv.github.io/blog/foodlogistic/</guid>
       <description>Uno de los costos principales en la producción de alimentos es la logística. La cadena productiva depende de ella y hay formas innovadoras de reducir su impacto.
 Etapas de la logística Transporte Conservación Distribución </description>
     </item>
     
     <item>
       <title>Los inicios de la hidroponía</title>
-      <link>https://www.holus.com.ar/blog/hydrophonicsbegining/</link>
+      <link>https://nicrodalv.github.io/blog/hydrophonicsbegining/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:32 +0600</pubDate>
       
-      <guid>https://www.holus.com.ar/blog/hydrophonicsbegining/</guid>
+      <guid>https://nicrodalv.github.io/blog/hydrophonicsbegining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>¿Qué es el éxodo rural?</title>
-      <link>https://www.holus.com.ar/blog/rural-exodus/</link>
+      <link>https://nicrodalv.github.io/blog/rural-exodus/</link>
       <pubDate>Thu, 06 Jan 2022 11:16:38 +0600</pubDate>
       
-      <guid>https://www.holus.com.ar/blog/rural-exodus/</guid>
+      <guid>https://nicrodalv.github.io/blog/rural-exodus/</guid>
       <description>asdgfasdfgsag</description>
     </item>
     
